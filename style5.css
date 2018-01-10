@@ -1,0 +1,13 @@
+.col-xs-6 {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.row.title {
+  background-color: rgba(0,0,0,.4);
+  padding: 3px;
+}
+
+.row.three, .row.five, .row.seven {
+  background-color: rgba(0,0,0,.1)
+}

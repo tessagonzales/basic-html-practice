@@ -1,0 +1,15 @@
+.col-sm-6.info {
+  text-align: center;
+}
+
+.col-sm-6.box {
+  border: 1px solid black;
+}
+
+.col-xs-12 {
+  border: 1px solid black;
+}
+
+.col-sm-3.box {
+  border: 1px solid black;
+}
